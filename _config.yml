@@ -3,3 +3,4 @@ plugins:
         - jekyll-remote-theme
 title: Sam Williams
 description: CS Ph.D Student at USC
+logo: /photo.jpg
